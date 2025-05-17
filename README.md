@@ -1,8 +1,5 @@
 # Music Recommender App
 
-**Members:** Lucas Lee, Xiang Chen, Arriella Mafuta, Tiffany Lian  
-**Repo:** https://github.com/tiffanylian/4500FinalProject
-
 ## Motivation
 
 Spotify’s recommendation system has become less effective and TikTok dominates music discovery. We aim to build a robust alternative that suggests new songs based on a user’s existing playlists and preferences.
