@@ -34,6 +34,13 @@ Spotify’s recommendation system has become less effective and TikTok dominates
 ## Directory Description
 
 4500FinalProject/
+
 client/ ← Holds the React frontend application.
+
 server/ ← Contains the Node.js/Express backend.
+
 README.md ← Project Description, Directory Structure, Set-up Instructions.
+
+## Video Demo Link
+https://www.youtube.com/watch?v=1bOWkNPgQv8
+
